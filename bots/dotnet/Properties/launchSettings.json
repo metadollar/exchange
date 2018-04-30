@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "MetaDollarClient": {
+      "commandName": "Project",
+      "commandLineArgs": "maker"
+    },
+    "MetaDollarClient - Maker": {
+      "commandName": "Project",
+      "commandLineArgs": "maker -v"
+    },
+    "MetaDollarClient - Taker": {
+      "commandName": "Project",
+      "commandLineArgs": "taker -v"
+    }
+  }
+}
